@@ -81,7 +81,7 @@ Tecnologias que utilizei para desenvolver esse cliente mobile.
 **Clone o projeto e acesse oarquivo**
 
 ```bash
-$ git clone https://github.com/EliasGcf/oficinaMobile.git && cd oficinaMobile
+$ git clone https://github.com/pedrobbarbosa/oficinaMobile.git && cd oficinaMobile
 ```
 
 **Siga os passos a seguir**
